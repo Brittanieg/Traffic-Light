@@ -1,1 +1,3 @@
-Here is how to make a traffic light change 
+Hello,
+
+This shows how to make a traffic light change colors. 
